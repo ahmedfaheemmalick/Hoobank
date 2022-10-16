@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { styles } from "../styles/styles"
-import { arrowUp } from "../assets/arrow-up.svg"
+import arrowUp from "../assets/arrow-up.svg"
 
 const GetStarted = () => (
   <div
