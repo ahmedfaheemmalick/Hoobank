@@ -1,8 +1,8 @@
 import Image from "next/image"
 import { styles } from "../styles/styles"
-import discount from "../assets/discount.svg"
-import robot from "../assets/robot.png"
 import GetStarted from "./GetStarted"
+import robot from "../assets/robot.png"
+import discount from "../assets/discount.svg"
 
 const Hero = () => {
   return (
